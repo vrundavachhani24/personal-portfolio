@@ -11,7 +11,7 @@ const Header = () => {
                 <div className="mt-5">
                     <img src="/images/vphoto4.jpg" className="rounded-full" alt="" />
                     <h1 className="text-xl mt-5 font-bold">Vrunda Vachhani</h1>
-                    <h1 className="mt-1 text-sm">Frontent Developer</h1>
+                    <h1 className="mt-1 text-sm">React JS. Developer</h1>
                 </div>
                 <Link to="/Home" className="hover:text-blue-400 text-md"> Home</Link>
                 <Link to="/About" className="hover:text-blue-400 text-md"> About</Link>

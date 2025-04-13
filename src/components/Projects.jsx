@@ -71,6 +71,25 @@ const Projects = () => {
                                     <li className="list-disc">JavaScript</li>
                                 </ul>
                             </div>
+
+                            <div className="shadow-lg shadow-black rounded-2xl p-5 zoom fade-right mt-10">
+                                <div className="container">
+                                    <Link to='https://travelingwebsiteinpackeges.netlify.app/'>
+                                        <img src="/images/travelingwebsite.png" alt="To-DoList" className="h-40 w-70 image" />
+                                        <div className="middle">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-plus-lg icon" viewBox="0 0 16 16">
+                                                <path fill-rule="evenodd" d="M8 2a.5.5 0 0 1 .5.5v5h5a.5.5 0 0 1 0 1h-5v5a.5.5 0 0 1-1 0v-5h-5a.5.5 0 0 1 0-1h5v-5A.5.5 0 0 1 8 2" />
+                                            </svg>
+                                        </div>
+                                    </Link>
+                                </div>
+                                <h1 className="text-xl font-bold mt-3">Traveling Website</h1>
+                                <p className="mt-2">Website made with responsive <br /> and animations.</p>
+                                <ul className="p-5">
+                                    <li className="list-disc">Html</li>
+                                    <li className="list-disc">Css</li>
+                                </ul>
+                            </div>
                         </div>
                     </div>
                 </div>
