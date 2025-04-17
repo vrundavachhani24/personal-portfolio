@@ -93,7 +93,7 @@ const Projects = () => {
 
                             <div className="shadow-lg shadow-black rounded-2xl p-5 zoom fade-right mt-10">
                                 <div className="container">
-                                    <Link to='https://skillstodoapp.vercel.app/'>
+                                    <Link to='https://react-skills-to-do-list.vercel.app/'>
                                         <img src="/images/To-Do.png" alt="To-DoList" className="h-40 w-70 image" />
                                         <div className="middle">
                                             <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-plus-lg icon" viewBox="0 0 16 16">

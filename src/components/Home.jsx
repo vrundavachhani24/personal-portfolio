@@ -4,7 +4,7 @@ const Home = () => {
     return (
         <div>
             <Header />
-            <div className="ms-80 m-40 max-sm:ms-10 max-sm:m-10">
+            <div className="ms-80 m-40 max-sm:ms-10">
                 <p className="text-3xl font-bold flex gap-2 max-sm:text-lg max-sm[590]:text-sm fade-up delay-1"> <p className=" text-3xl max-sm:text-lg max-sm[590]:text-sm font-bold bg-gradient-to-r from-blue-900 via-indigo-800 to-purple-800 bg-clip-text text-transparent"> Hello </p>  it's me.</p>
                 <p className="min-[500px]:text-6xl text-3xl font-bold mt-3 fade-up delay-2">Vrunda Vachhani</p>
                 <p className="text-4xl font-bold mt-3 fade-up delay-3">I'm <span className="text-5xl max-xl:text-4xl bg-gradient-to-r from-blue-900 via-indigo-800 to-purple-800 bg-clip-text text-transparent"> Developer</span></p>
